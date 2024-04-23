@@ -1,0 +1,45 @@
+.myheader{
+    color: salmon;
+    font-size: 60px;
+    text-align: center;
+  }
+.mysubheader{
+  color:black;
+  font-size: 20px;
+  text-align: center;
+}
+.mybodyheader{
+  color:salmon;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.mysubtext{
+  color:gray;
+  font-size: 10px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.mymaintext{
+  font-style:italic;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.thebackground{
+  background-image: url(../assets/img/StBarts_whitesandbeach.jpg.webp);
+  background-repeat: no-repeat;
+  background-size: 200%;
+}
+.mybodytext{
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.mylinktext{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 60px;
+}
